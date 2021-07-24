@@ -19,5 +19,16 @@ It reads user input and provides information at the user's request.
 - playlists C_NAME - where C_NAME is the name of category. The list contains playlists of this category and their links on Spotify;
 - exit - shuts down the application.
 
-The music advisor in a nutshell us powerful guide to the world of music.
+Full documentation how to work with api could be found at https://developer.spotify.com/documentation/web-api/reference/.
 
+The music advisor in a nutshell us powerful guide to the world of music. Below is an output example of the described program.
+
+<img src="https://github.com/gulbalasalamov/strategy-pattern-api/blob/master/src/main/java/strategy-pattern-api-demo.gif" alt="Inventory Management App gif" title="Inventory Management App gif" width="900"/>
+
+# Contributing
+Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
+
+Happy Coding!!!
+
+## Copyright
+© Gulbala Salamov
