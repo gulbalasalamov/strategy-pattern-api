@@ -5,6 +5,7 @@ import request.Authorization;
 import service.UI;
 import strategy.CategoryStrategy;
 import strategy.FeaturedStrategy;
+import strategy.NewReleasesStrategy;
 import strategy.PlaylistsStrategy;
 
 import java.util.List;
@@ -32,7 +33,7 @@ public class CommandLineUI implements UI {
                         context.setStrategy(new FeaturedStrategy());
                         break;
                     case "new":
-                        //context.setStrategy(new NewReleasesStrategy());
+                        context.setStrategy(new NewReleasesStrategy());
                         break;
                     case "categories":
                         context.setStrategy(new CategoryStrategy());
