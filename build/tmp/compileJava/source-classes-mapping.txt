@@ -1,0 +1,28 @@
+service/AdviceStrategy.java
+ service.AdviceStrategy
+strategy/CategoryStrategy.java
+ strategy.CategoryStrategy
+request/Request.java
+ request.Request
+strategy/NewReleasesStrategy.java
+ strategy.NewReleasesStrategy
+request/Server.java
+ request.Server
+constant/CONFIG.java
+ constant.CONFIG
+request/Api.java
+ request.Api
+service/UI.java
+ service.UI
+request/Authorization.java
+ request.Authorization
+context/Context.java
+ context.Context
+strategy/PlaylistsStrategy.java
+ strategy.PlaylistsStrategy
+strategy/FeaturedStrategy.java
+ strategy.FeaturedStrategy
+client/Main.java
+ client.Main
+client/CommandLineUI.java
+ client.CommandLineUI
