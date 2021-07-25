@@ -23,7 +23,13 @@ Full documentation how to work with api could be found at https://developer.spot
 
 The music advisor in a nutshell us powerful guide to the world of music. Below is an output example of the described program.
 
+Note: To run the program on your system, you need to place your own Spotify API credentials which you can update on Config class.
+
 <img src="https://github.com/gulbalasalamov/strategy-pattern-api/blob/master/src/main/java/strategy-pattern-api-demo.gif" alt="Inventory Management App gif" title="Inventory Management App gif" width="900"/>
+
+## UML Class Diagram
+
+![Intro Page](https://github.com/gulbalasalamov/strategy-pattern-api/blob/master/src/main/java/strategy-pattern-api-uml.png)
 
 # Contributing
 Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
